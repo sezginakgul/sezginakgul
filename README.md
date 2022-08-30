@@ -2,10 +2,22 @@
   <br> I'm Sezgin Akgül, Full Stack Web Developer :computer: 
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </br>
+
+### Skills
+
 ## Contact Me
 
-  <a href="mailto:sezgin.akgull@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/sezginakgul/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sezginakgul/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/sezginakgull/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+  </a>
+   <a href="mailto:sezgin.akgull0@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
+  </a>
+</p>
 
 <!--
 **sezginakgul/sezginakgul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
