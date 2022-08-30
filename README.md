@@ -1,4 +1,3 @@
-// <a href="https://www.linkedin.com/in/sezginakgul/" target="_blank"><img  src="./header.png" alt="Sezgin Akgül" width="1000"></a>
 ### Hi there 👋
 
 <!--
