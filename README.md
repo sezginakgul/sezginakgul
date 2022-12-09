@@ -1,6 +1,6 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   I'm Sezgin Akgül, Front-End Developer :computer: 
-  <p align="center">
+<p align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
   </p>
 </br>
