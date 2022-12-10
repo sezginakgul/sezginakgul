@@ -2,7 +2,7 @@
   I'm Sezgin Akgül, Front-End Developer :computer: 
 <p align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-  </p>
+ </p>
 </br>
 
 ### Skills
