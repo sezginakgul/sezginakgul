@@ -12,8 +12,8 @@
  </p>
 </br>
 
+## Skills
 
-### Skills
 <p align="left">
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -35,13 +35,20 @@
       
 ## Contact Me
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/sezginakgul/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/sezginakgull/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
+</p>
+
+<br> -->
+<p align="center">
+  <a href="https://sezgin.vercel.app/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"  width="70" height="70"/></a>
+  <a href="mailto:sezgin.akgull@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"  width="70" height="70"/></a>
+  <a href="https://www.linkedin.com/in/sezginakgul/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="70" height="70"/></a>
 </p>
 
 <!--
