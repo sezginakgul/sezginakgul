@@ -1,5 +1,5 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  I'm Sezgin Akgül, Front-End Developer :computer: 
+  I'm Sezgin Akgül, Frontend Developer :computer: 
   </br>
   <div>
   <a href="https://sezgin.vercel.app/" target="_blank">
